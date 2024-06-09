@@ -1,0 +1,18 @@
+{
+    "components": [
+      "./components/ArrowRightIcon.tsx",
+      "./components/DestinationCard.tsx",
+      "./components/FlightMainContainer.tsx",
+      "./components/Footer.tsx",
+      "./components/Header.tsx",
+      "./components/HolidayCard.tsx",
+      "./components/HotelCard.tsx",
+      "./components/NavigationLink.tsx",
+      "./components/TripItem.tsx",
+      "./components/SubscribeSection.tsx",
+      "./components/Button.tsx"
+    ],
+    "wrapper": "./Wrapper.tsx",
+    "webpack": "./webpack.locofy.js",
+    "publicPath": "./public/assets"
+  }
